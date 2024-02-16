@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[2535],{45641:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"Starting the UModeler blog","permalink":"/blog/hello-umodeler"}]}')}}]);
