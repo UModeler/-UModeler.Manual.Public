@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[2535],{45641:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"UModeler X Latest Update Introduction - January, February 2024","permalink":"/ko/blog/Feb-2024-Latest-Update"},{"title":"Starting the UModeler blog","permalink":"/ko/blog/hello-umodeler"}]}')}}]);
