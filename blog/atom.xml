@@ -21,6 +21,11 @@
         <category label="update news" term="update news"/>
         <category label="backlog" term="backlog"/>
         <category label="painting-mode-guide" term="painting-mode-guide"/>
+        <category label="unity3d" term="unity3d"/>
+        <category label="3dmodeling" term="3dmodeling"/>
+        <category label="gamedev" term="gamedev"/>
+        <category label="indiedev" term="indiedev"/>
+        <category label="metaverse" term="metaverse"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Starting the UModeler blog]]></title>
