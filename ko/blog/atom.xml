@@ -21,6 +21,16 @@
         <category label="update news" term="update news"/>
         <category label="backlog" term="backlog"/>
         <category label="painting-mode-guide" term="painting-mode-guide"/>
+        <category label="unity3d" term="unity3d"/>
+        <category label="3dmodeling" term="3dmodeling"/>
+        <category label="gamedev" term="gamedev"/>
+        <category label="indiedev" term="indiedev"/>
+        <category label="metaverse" term="metaverse"/>
+        <category label="게임개발" term="게임개발"/>
+        <category label="3D모델링" term="3D모델링"/>
+        <category label="유니티" term="유니티"/>
+        <category label="메타버스" term="메타버스"/>
+        <category label="인디게임" term="인디게임"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[UModeler 블로그를 시작하며]]></title>
