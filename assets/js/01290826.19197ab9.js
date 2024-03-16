@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[2341],{35857:l=>{l.exports=JSON.parse('{"label":"low poly building","permalink":"/blog/tags/low-poly-building","allTagsPath":"/blog/tags","count":1}')}}]);
