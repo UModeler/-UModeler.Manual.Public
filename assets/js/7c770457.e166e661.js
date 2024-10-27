@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[9410],{87195:e=>{e.exports=JSON.parse('{"label":"Cube of Light Resurrection","permalink":"/blog/tags/cube-of-light-resurrection","allTagsPath":"/blog/tags","count":1}')}}]);
