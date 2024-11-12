@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.umodeler.com/blog</id>
     <title>UModeler X Blog</title>
-    <updated>2024-10-27T00:00:00.000Z</updated>
+    <updated>2024-11-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.umodeler.com/blog"/>
     <subtitle>UModeler X Blog</subtitle>
     <icon>https://docs.umodeler.com/img/favicon_UModeler.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UModeler X Plus 1.0 Release Date Announcement]]></title>
+        <id>https://docs.umodeler.com/blog/umodeler-x-plus-1-0-release-date-announcement</id>
+        <link href="https://docs.umodeler.com/blog/umodeler-x-plus-1-0-release-date-announcement"/>
+        <updated>2024-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UModeler X Plus 1.0 official version will be released on November 20th, featuring enhanced modeling tools, Humonoid Avatar support, and improved UI systems. While some SketchUp-style modeling features will be gradually implemented post-release, new features like Normal Painting compensate for this adjustment.]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="/assets/images/umodeler-x-plus-1.0-2f30be439c70b76d897029a1ddf1eedd.jpg" width="1950" height="1300" class="img_ev3q"></p><p>Hello UModeler X Plus users,</p><p>We are excited to announce that UModeler X Plus 1.0 official version will be released on <code>November 20th</code>. Since the Early Bird version release in September, our team has been working diligently to prepare for the official version.</p><p>However, we need to share one piece of news that might disappoint you. The SketchUp-style modeling features we promised in September won't be fully implemented by the <code>20th</code>. Implementing these features perfectly in the new UModeler X architecture has presented more technical challenges than anticipated. We plan to enhance this functionality through continuous updates after the 1.0 release.</p><p>Specifically, the Line tool will be moved to the Add group and renamed to Knife tool to better reflect its polygon-cutting functionality. Additionally, a new Poly Line tool will be added to the Drawing group to support SketchUp-style modeling. As for Hotspot texturing, we will first provide it at the existing UModeler level and implement additional features gradually after the release.</p><p>To compensate for these adjustments, we have prepared several new features:</p><ul><li>Normal Painting (released in October)</li><li>Humonoid Avatar support</li><li>Enhanced Display/Debug/Snap Settings UI</li><li>Offline use available</li></ul><p>We are confident these new features will significantly improve your 3D content creation workflow.</p><p>We are prioritizing the development of SketchUp-style modeling and Hotspot texturing, aiming to complete them within this year. We will regularly share development progress updates with you.</p><p><strong>Here are the key features included in UModeler X Plus 1.0:</strong></p><ol><li>SketchUp Style Modeling ver 0.7</li><li>Hotspot Texturing Tool</li><li>Follow Tool</li><li>Array Modifier and Tools</li><li>Normal Painting</li><li>.OBJ, .STL, .PLY Exporter</li><li>Humonoid Avatar support</li><li>Multi UV support</li><li>Scene saving support for UModeler X 3D model data</li><li>Enhanced Debug, Display Settings UI</li><li>World and Increment options added to Snap Panel window</li><li>Offline use available</li></ol><p><strong>Post-1.0 UModeler X Plus Roadmap in 2024</strong></p><ul><li>SketchUp Style Modeling ver 1.0<ul><li>Supports for connecting outer polygons with inner holes.</li><li>Enhance the stability.</li><li>and more.</li></ul></li><li>Additional Hotspot Texturing features<ul><li>Trim sheet</li><li>Group-based hotspots</li></ul></li><li>Improved Pivot Gizmo system</li></ul><p>We look forward to bringing you the official release news on <code>November 20th</code>. </p><p>Thank you for your continued support.</p>]]></content>
+        <author>
+            <name>Jaesik Hwang</name>
+            <email>Jaesik.H@umodeler.com</email>
+        </author>
+        <category label="UModeler X Plus" term="UModeler X Plus"/>
+        <category label="Release Date" term="Release Date"/>
+        <category label="SketchUp Style Modeling" term="SketchUp Style Modeling"/>
+        <category label="Hotspot Texturing" term="Hotspot Texturing"/>
+        <category label="Normal Painting" term="Normal Painting"/>
+        <category label="Humonoid Avatar" term="Humonoid Avatar"/>
+        <category label="Debug UI" term="Debug UI"/>
+        <category label="Display Settings" term="Display Settings"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UModeler X Achievements and News - October 2024]]></title>
         <id>https://docs.umodeler.com/blog/Oct-27th-2024-blog</id>
@@ -28,7 +48,7 @@
         <category label="Wendigo Hunter" term="Wendigo Hunter"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UModeler X Plus - Finally Released!]]></title>
+        <title type="html"><![CDATA[UModeler X Plus Early Bird - Finally Released!]]></title>
         <id>https://docs.umodeler.com/blog/September-14th-2024-blog</id>
         <link href="https://docs.umodeler.com/blog/September-14th-2024-blog"/>
         <updated>2024-09-14T00:00:00.000Z</updated>
